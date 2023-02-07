@@ -6,6 +6,6 @@ Código simples para realizar descrição de arquivos utilizando uma ou mais thr
 
 Para utilizar o módulo single thread, utilize o seguinte comando:
 
-"""bash
+```bash
 python3 single_thread.py --file input.txt
-"""
+```
